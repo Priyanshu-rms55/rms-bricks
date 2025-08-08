@@ -70,7 +70,7 @@ const About = () => {
           <div className="animate-fade-in">
             <div className="relative">
               <img
-                src="https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=600"
+                src="/WhatsApp Image 2025-08-08 at 14.58.02_92ba71eb.jpg"
                 alt="Mr. Chandan Kumar - Owner of RMS Construction"
                 className="w-full h-[500px] object-cover rounded-2xl shadow-lg"
               />
